@@ -1,0 +1,7 @@
+---
+applications:
+- name: sto_service
+  routes:
+  - route: sto-service.cfapps.us10.hana.ondemand.com 
+  path: .
+  memory: 128M
